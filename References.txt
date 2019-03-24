@@ -1,0 +1,25 @@
+ref 1: https://www.openstreetmap.org/
+ref 2: https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+ref 3: http://docs.python-cerberus.org/en/stable/
+ref 4: https://adresse.data.gouv.fr/
+ref 5: https://wiki.openstreetmap.org/wiki/Way#Closed_way
+ref 6: https://adresse.data.gouv.fr/
+ref 7: https://en.wikipedia.org/wiki/OpenStreetMap
+ref 8: https://help.openstreetmap.org/questions/26625/buildings-with-more-than-one-amenity
+
+
+Other links consulted during the project:
+https://gist.github.com/carlward/54ec1c91b62a5f911c42#file-sample_project-md
+https://docs.python.org/3.7/library/xml.etree.elementtree.html
+https://docs.python.org/3.7/library/stdtypes.html#string-methods
+https://docs.python.org/3/howto/regex.html
+https://stackoverflow.com/questions/11854847/how-can-i-display-an-image-from-a-file-in-jupyter-notebook
+http://pandas.pydata.org/pandas-docs/version/0.19/generated/pandas.DataFrame.html
+https://docs.python.org/3.7/library/difflib.html
+https://docs.python.org/3/library/datetime.html
+https://www.latlong.net/Show-Latitude-Longitude.html
+https://www.sqlite.org/lang_expr.html
+http://zetcode.com/db/sqlite/expressions/
+http://www.sqlitetutorial.net/sqlite-union/
+https://docs.python.org/3/library/sqlite3.html
+

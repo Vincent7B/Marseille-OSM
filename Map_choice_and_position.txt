@@ -1,0 +1,6 @@
+https://overpass-api.de/api/map?bbox=5.2818,43.1696,5.4502,43.3698
+
+I decided to choose the map of Marseille, in France, as OpenStreetMap dataset for this project. 
+I grew up in Marseille as child and then teenager, so I was keen on seeing how well this map currently is. 
+Besides, I supposed that my knowledge of the city might help while auditing and cleaning the data 
+(especially whenever manual corrections are needed).
